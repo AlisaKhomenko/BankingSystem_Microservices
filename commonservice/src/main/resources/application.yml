@@ -1,0 +1,4 @@
+
+server:
+  port: 8888
+#    localhost:8080/h2-console
